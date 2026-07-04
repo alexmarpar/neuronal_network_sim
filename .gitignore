@@ -1,0 +1,6 @@
+/include/
+/lib/
+*.exe
+*.ilk
+*.obj
+*.pdb
